@@ -1,0 +1,65 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Facilite HI com Gabinete, CPU, impressora, mouse e teclado e monitor 18”",
+      "price": 2790.9,
+      "image": "https://i.ibb.co/jDcQ9rV/hicomp.jpg"},
+    {
+      "id": 2,
+      "title": "Leitor de Código de Barras Elgin EL120",
+      "price": 319.9,
+      "image": "https://i.ibb.co/zVZf7k7/leitorcod.jpg"
+    },
+    {
+      "id": 3,
+      "title": "SAT FICAL NITERE/CUSTOM 4200",
+      "price": 650.0,
+      "image": "https://i.ibb.co/256gfqv/sat.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Licença FACILITE - Ordens de Serviço",
+      "price": 50.0,
+      "image": "https://i.ibb.co/0McYCQP/varejo-corret-Copia-2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Licença FACILITE - Varejo",
+      "price": 100.0,
+      "image": "https://i.ibb.co/mFyLRbf/varejo-corret.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Licença FACILITE - Food",
+      "price": 150.0,
+      "image": "https://i.ibb.co/ySZDjK3/varejo-corret-Copia.jpg"
+    }
+  ]
+}
